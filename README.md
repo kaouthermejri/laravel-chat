@@ -1,2 +1,2 @@
 # laravel-chat
-Laravel chat system
+Laravel chat system. Currently in development
